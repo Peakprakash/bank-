@@ -257,7 +257,7 @@ void loan_info()
 	printf("\t  -> Quick Approval & Disbursal rate\t      |");
     printf("\n\t      |_______________________________________________|");
     printf("\n________________________________________________________________________________");
-	printf("\n-----------------\n|Amount of Loan |\n-----------------\n\t The maximum and minimum amount of Level Bank of Nepal personal loans depends upon the nature of loan and the area of the applicant’s residence.");
+	printf("\n-----------------\n|Amount of Loan |\n-----------------\n\t The maximum and minimum amount of Level Bank of Nepal personal loans depends upon the nature of loan and the area of the applicantï¿½s residence.");
 	printf("\n\n\n Press key to continue..");
 	getch();
 	loan_type();
